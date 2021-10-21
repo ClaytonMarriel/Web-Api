@@ -28,4 +28,5 @@ Estrutura de pastas <br>
  * VScode instalado
  * Para rodar a API:
  *  Executar o nosso script pelo terminal: npm teste para realizar as inserções ou visualizações no arquivo json
+ *  Utilizar as rotas criadas para poder executar as funções explicadas acima
  * Executar o nosso script pelo terminal: npm run dev para dar o start no servidor
