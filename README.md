@@ -5,7 +5,8 @@
 <h1 align="center">
     <a href="https://nodejs.org/en/">NodeJS</a>
 </h1>
-Estrutura de pastas
+
+Estrutura de pastas <br>
 =================
 <!--ts-->
  * [Entities](#Entities) ->  Guarda as entidades do sistema
